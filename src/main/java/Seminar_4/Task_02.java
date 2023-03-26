@@ -6,7 +6,7 @@ public class Task_02 {
     public static void main(String[] args) {
         LinkedList<Integer> link = new LinkedList<>();
         for (int i = 0; i < 10; i++) {
-            link.add(randomElement());
+            link.add(randomEl());
         }
         System.out.println(link);
 
@@ -17,7 +17,7 @@ public class Task_02 {
         }
     }
 
-    public static int randomElement() {
+    public static int randomEl() {
         double x = (Math.random() * 100);
         int number = (int) x;
         return number;

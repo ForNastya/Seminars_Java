@@ -4,10 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="338f0e64-4f4e-4600-a027-4dc145e7252a" name="Changes" comment="Task_01">
-      <change afterPath="$PROJECT_DIR$/src/main/java/Task_02/Task_02.java" afterDir="false" />
+    <list default="true" id="338f0e64-4f4e-4600-a027-4dc145e7252a" name="Changes" comment="Task_02">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Seminar_1/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Seminar_1/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Seminar_4/Task_02.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Seminar_4/Task_02.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,12 +49,51 @@
   }
 }</component>
   <component name="RunManager" selected="Application.Task_02">
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Seminar_1.Main" />
+    <configuration name="Seminar_2.Task_02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Seminar_2.Task_02" />
       <module name="Seminars_Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Seminar_1.*" />
+          <option name="PATTERN" value="Seminar_2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Seminar_3.Task_02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Seminar_3.Task_02" />
+      <module name="Seminars_Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Seminar_3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Seminar_4.Task_01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Seminar_4.Task_01" />
+      <module name="Seminars_Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Seminar_4.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Task_01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Seminar_2.Task_01" />
+      <module name="Seminars_Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Seminar_2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -64,11 +102,11 @@
       </method>
     </configuration>
     <configuration name="Task_02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Task_02.Task_02" />
+      <option name="MAIN_CLASS_NAME" value="Seminar_4.Task_02" />
       <module name="Seminars_Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Task_02.*" />
+          <option name="PATTERN" value="Seminar_4.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -79,7 +117,10 @@
     <recent_temporary>
       <list>
         <item itemvalue="Application.Task_02" />
-        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.Task_01" />
+        <item itemvalue="Application.Seminar_2.Task_02" />
+        <item itemvalue="Application.Seminar_4.Task_01" />
+        <item itemvalue="Application.Seminar_3.Task_02" />
       </list>
     </recent_temporary>
   </component>
@@ -106,7 +147,42 @@
       <option name="project" value="LOCAL" />
       <updated>1678184066854</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Task_02">
+      <created>1678335007457</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1678335007457</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Task_02">
+      <created>1679105473558</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1679105473558</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Task_02">
+      <created>1679106095071</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1679106095071</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Task_02">
+      <created>1679117465312</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1679117465312</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Task_02">
+      <created>1679324655341</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1679324655341</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -122,6 +198,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Task_01" />
-    <option name="LAST_COMMIT_MESSAGE" value="Task_01" />
+    <MESSAGE value="Task_02" />
+    <option name="LAST_COMMIT_MESSAGE" value="Task_02" />
   </component>
 </project>
