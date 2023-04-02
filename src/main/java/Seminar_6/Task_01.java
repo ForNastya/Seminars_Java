@@ -13,10 +13,10 @@ public class Task_01 {
         List<Laptop> laptopList = List.of(lp1, lp2, lp3, lp4);
 
         Scanner scannerUser = new Scanner(System.in);
-        System.out.println("Выбрать критерий поиска:\n1 - по цвету\n2 - по модели");
+        System.out.println("Select search criteria:\n1 - color \n2 - model");
         int searchBy = scannerUser.nextInt();
         Scanner scanSearchUser = new Scanner(System.in);
-        System.out.println("Укажите какой(какая) интересует? ");
+        System.out.println("Indicate which one you are interested in: ");
         String SearchUser = scanSearchUser.nextLine();
 
         if (searchBy == 1) {
@@ -33,7 +33,7 @@ public class Task_01 {
                 }
             }
         } else {
-            System.out.println("Ошибка.\nВыберите параметр для поиска, где:\n1 - по цвету\n2 - по модели");
+            System.out.println("Error.\nSelect search criteria:\n1 - color\n2 - model");
         }
 
         scannerUser.close();

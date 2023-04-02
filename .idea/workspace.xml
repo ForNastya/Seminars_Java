@@ -4,10 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="338f0e64-4f4e-4600-a027-4dc145e7252a" name="Changes" comment="Task2">
-      <change afterPath="$PROJECT_DIR$/src/main/java/Seminar_6/Laptop.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Seminar_6/Task_01.java" afterDir="false" />
+    <list default="true" id="338f0e64-4f4e-4600-a027-4dc145e7252a" name="Changes" comment="Task_01">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Seminar_6/Laptop.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Seminar_6/Laptop.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Seminar_6/Task_01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Seminar_6/Task_01.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,13 +42,12 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true"
   }
-}</component>
+}]]></component>
   <component name="RunManager" selected="Application.Seminar_6.Task_01">
     <configuration name="Seminar_2.Task_02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Seminar_2.Task_02" />
@@ -190,7 +189,14 @@
       <option name="project" value="LOCAL" />
       <updated>1679799089719</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Task_01">
+      <created>1680416755603</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1680416755603</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -205,9 +211,9 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Task_01" />
     <MESSAGE value="Task_02" />
     <MESSAGE value="Task2" />
-    <option name="LAST_COMMIT_MESSAGE" value="Task2" />
+    <MESSAGE value="Task_01" />
+    <option name="LAST_COMMIT_MESSAGE" value="Task_01" />
   </component>
 </project>

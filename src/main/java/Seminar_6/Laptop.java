@@ -38,11 +38,11 @@ public class Laptop {
     public String toString() {
         return "Laptop-" +
                 "model='" + model + '\'' +
-                ", display='" + display + '\'' +
-                ", RAM=" + RAM +
-                ", OS='" + OS + '\'' +
-                ", color='" + color + '\'' +
-                ", price=" + price +
+                ", display:'" + display + '\'' +
+                ", RAM:" + RAM +
+                ", OS:'" + OS + '\'' +
+                ", color:'" + color + '\'' +
+                ", price:" + price +
                 '.';
     }
 
